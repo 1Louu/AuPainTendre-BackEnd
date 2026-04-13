@@ -1,0 +1,23 @@
+{
+  "name": "aupaintendre",
+  "version": "1.0.0",
+  "description": "Projet Full Stack pour démonstration pro",
+  "homepage": "https://github.com/1Louu/AuPainTendre-BackEnd#readme",
+  "bugs": {
+    "url": "https://github.com/1Louu/AuPainTendre-BackEnd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Louu/AuPainTendre-BackEnd.git"
+  },
+  "license": "ISC",
+  "author": "1Louu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
